@@ -2,7 +2,7 @@
 
 [English](#english)
 
-OriPet 是一款面向 Windows 的非官方《奥日》桌面宠物。
+OriPet 是面向 Windows 的非官方《奥日》桌面宠物。
 
 > 本项目是非商业性质的同人作品，与 Moon Studios、Microsoft 或 Ori 系列的其他权利方不存在官方关联。
 
@@ -32,11 +32,6 @@ OriPet 是一款面向 Windows 的非官方《奥日》桌面宠物。
 - Windows 版本
 - 使用的 OriPet 版本
 - 问题是否可以稳定复现
-
-## 制作人员
-
-- 程序：羽泉
-- 动作：无名
 
 ## 仓库说明
 
@@ -76,11 +71,6 @@ When reporting an issue, please include:
 - Your Windows version
 - The OriPet version
 - Whether the problem can be reproduced consistently
-
-## Credits
-
-- Programming: 羽泉
-- Animation: 无名
 
 ## Repository Scope
 
