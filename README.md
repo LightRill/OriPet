@@ -27,15 +27,15 @@ OriPet 是面向 Windows 的非官方《奥日》桌面宠物。
 
 提交问题时，建议附带：
 
+- 使用的 OriPet 版本
+- Debug 版本内 Diagnostics 日志文件
 - 问题发生前后的操作
 - 屏幕录制或截图
-- Windows 版本
-- 使用的 OriPet 版本
 - 问题是否可以稳定复现
 
 ## 仓库说明
 
-OriPet 中使用的角色、动画、美术和音频素材来源于或修改自《Ori》系列作品，其相关权利归原权利方所有。未经许可，不得将这些素材用于其他项目或商业用途。
+OriPet 中使用的角色、动画、美术和音频素材来源于或修改自 Ori 系列作品，其相关权利归原权利方所有。未经许可，不得将这些素材用于其他项目或商业用途。
 
 ---
 
@@ -66,11 +66,11 @@ If you encounter a problem, please report it through this repository's
 
 When reporting an issue, please include:
 
-- The actions performed before the problem occurred
-- A screen recording or screenshot
-- Your Windows version
-- The OriPet version
-- Whether the problem can be reproduced consistently
+- OriPet version used
+- Diagnostics log file from the Debug version
+- Actions performed before and after the issue occurred
+- Screen recording or screenshots
+- Whether the issue can be consistently reproduced
 
 ## Repository Scope
 
